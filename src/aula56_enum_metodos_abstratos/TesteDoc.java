@@ -2,9 +2,9 @@ package aula56_enum_metodos_abstratos;
 
 public class TesteDoc {
     public static void main(String[] args) {
-        /*for(TipoDocumento documento : TipoDocumento.values()) {
+        for(TipoDocumento documento : TipoDocumento.values()) {
             System.out.println(documento + " - " + documento.geraNumeroTeste());
-        }*/
+        }
 
         Pessoa pessoa = new Pessoa();
         pessoa.setIdentificacao(Enum.valueOf(TipoDocumento.class,"CPF"));
