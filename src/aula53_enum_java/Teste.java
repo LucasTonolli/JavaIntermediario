@@ -1,4 +1,4 @@
-package aula_enum_java;
+package aula53_enum_java;
 
 public class Teste {
     public static void main(String[] args) {

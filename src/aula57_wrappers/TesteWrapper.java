@@ -1,4 +1,4 @@
-package wrappers;
+package aula57_wrappers;
 
 public class TesteWrapper {
     public static void main(String[] args) {

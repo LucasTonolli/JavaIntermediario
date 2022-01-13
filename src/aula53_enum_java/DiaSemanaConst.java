@@ -1,4 +1,4 @@
-package aula_enum_java;
+package aula53_enum_java;
 
 public class DiaSemanaConst {
     public static final int SEGUNDA =  1;
